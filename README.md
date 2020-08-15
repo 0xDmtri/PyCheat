@@ -1,5 +1,7 @@
 # PyCheat
+Python Info
 ---
+
 
 ## General Python Guide, from A to Z
 
