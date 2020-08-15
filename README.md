@@ -1,5 +1,4 @@
 # PyCheat
-Python Resources and Cheat Sheets
 ---
 
 ## General Python Guide, from A to Z
