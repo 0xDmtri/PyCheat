@@ -1,51 +1,53 @@
 ## General Python Guide, from A to Z
 
-- https://docs.python-guide.org
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org)
 
 
 ## Python Packages
 
 ### Fundamental packages
 
-- Pandas
-- Numpy
-- Scipy
-- Matplotlib
+- [Pandas](https://pandas.pydata.org)
+- [Numpy](https://numpy.org)
+- [Scipy](https://scipy.org)
+- [Matplotlib](https://matplotlib.org)
 
 ### Machine Learning Libraries
 
-- Scikit-Learn
-- Tensorflow
-- PyTorch
-- h2o
-- LightGBM (by Google)
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+- [Tensorflow](https://www.tensorflow.org)
+- [PyTorch](https://pytorch.org)
+- [h2o](https://www.h2o.ai)
+- [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 
 ### Data Manipulation
 
-- Modin
-- PyStore
-- PyArrow
-- pdpipe
-- Pickle
+- [Modin](https://modin.readthedocs.io/en/latest/)
+- [PyStore](https://github.com/ranaroussi/pystore)
+- [PyArrow](https://arrow.apache.org)
+- [pdpipe](https://pdpipe.github.io/pdpipe/)
+- [Pickle](https://docs.python.org/3/library/pickle.html)
 
 
 ### Statistical Packages
 
-- Statsmodels
-- Pingouin
-- gs-quant (by Goldman Sachs)
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
+- [Pingouin](https://pingouin-stats.org)
 
 
 ### Trading
 
-- Zipline
-- Tradologics
-- btrccts
+- [GS-quant](https://developer.gs.com/discover/gs-quant/)
+- [Zipline](https://www.zipline.io)
+- [Tradologics](https://tradologics.com)
+- [btrccts](https://github.com/btrccts/btrccts)
 
 
 ## Editors and Software:
 
-- Spacemacs (very advanced and very customisable)
-- PyCharm (popular and easy to use but heavy on RAM)
-- VSCode (easy and lightweight)
-- Atom (similar to VSCode)
+- [Spacemacs](https://develop.spacemacs.org) (very advanced and very customisable)
+- [PyCharm](https://www.jetbrains.com/pycharm/) (popular and easy to use but heavy on RAM)
+- [VSCode](https://code.visualstudio.com) (easy and lightweight)
+- [Atom](https://atom.io) (similar to VSCode)
+- [Kite](https://www.kite.com)(Assisting Engine)
+- [Jupyter](https://jupyter.org)
