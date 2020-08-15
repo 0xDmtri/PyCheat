@@ -1,11 +1,9 @@
 ## General Python Guide, from A to Z
----
 
 - https://docs.python-guide.org
 
 
 ## Python Packages
----
 
 ### Fundamental packages
 
@@ -46,7 +44,6 @@
 
 
 ## Editors and Software:
----
 
 - Spacemacs (very advanced and very customisable)
 - PyCharm (popular and easy to use but heavy on RAM)
