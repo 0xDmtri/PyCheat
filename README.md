@@ -1,23 +1,20 @@
-# PyCheat
-Python Info
----
-
-
 ## General Python Guide, from A to Z
+---
 
 - https://docs.python-guide.org
 
 
-## Python Packages:
+## Python Packages
+---
 
-### Fundamental packages:
+### Fundamental packages
 
 - Pandas
 - Numpy
 - Scipy
 - Matplotlib
 
-### Machine Learning Libraries:
+### Machine Learning Libraries
 
 - Scikit-Learn
 - Tensorflow
@@ -48,7 +45,8 @@ Python Info
 - btrccts
 
 
-## Editors and Software
+## Editors and Software:
+---
 
 - Spacemacs (very advanced and very customisable)
 - PyCharm (popular and easy to use but heavy on RAM)
